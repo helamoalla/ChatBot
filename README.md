@@ -18,7 +18,7 @@ Avant de commencer, assurez-vous d'avoir installé les bibliothèques nécessair
 
 2. **Configurer votre clé API Hugging Face** :
     - Rendez-vous sur le [site de Hugging Face](https://huggingface.co) et connectez-vous à votre compte.
-    - Cliquez sur votre profil dans le coin supérieur droit, puis allez dans **Settings -> Access Tokens** et générez une nouvelle clé API.
+    - Cliquez sur votre profil dans le coin supérieur droit, puis allez dans **Settings -> Access Tokens** et générez une nouvelle clé API( cochez la case Inference: (Make calls to the serverless Inference API)         lors de la création de la clé API).
     
 3. **Ajouter la clé API dans le code** :
    - Ouvrez votre fichier `chat.py` et ajoutez votre clé API à l'emplacement prévu :
