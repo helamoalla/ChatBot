@@ -38,4 +38,3 @@ Avant de commencer, assurez-vous d'avoir installé les bibliothèques nécessair
 
 ---
 
-N'hésitez pas à ajouter des captures d'écran pour expliquer comment ajouter la clé API dans le fichier de configuration et personnaliser votre projet en conséquence !
